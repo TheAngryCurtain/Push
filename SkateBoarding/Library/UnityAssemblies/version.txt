@@ -1,0 +1,4 @@
+5.3.3p3:2.0.0.0
+StandaloneWindows
+C:/Users/mikes/Perforce/mikes_GolfVR/golf/vr/unity-5/build/WindowsEditor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/Users/mikes/Perforce/mikes_GolfVR/golf/vr/unity-5/build/WindowsEditor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
